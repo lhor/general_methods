@@ -1,2 +1,2 @@
-# general_methods
-Scripts for general (meta)genomic analyses
+# general methods
+Scripts that I use for (meta)genomic analyses
